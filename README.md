@@ -1,2 +1,2 @@
 # Deep-Learning-Specialization-by-Andrew-Ng
-This is my solutions to assignments of Coursera's Neural Networks and Deep Learning course.
+This is a summary of the first course (Neural Networks and Deep Learning) in the Deep Learning Specialization on Coursera.
